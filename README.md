@@ -6,8 +6,8 @@
   </a> 
 <h1 align='center'>Quizo App Part-2 Resources</h1>
 <h3 align='center'>
-  Subscribe <a href="youtube.com/@LearnWithYeamin">Learn With Yeamin</a>
-  Follow <a href="facebook.com/LWYEAMIN">Learn With Yeamin</a>
+Subscribe <a href="https://youtube.com/@LearnWithYeamin">Learn With Yeamin</a>  
+Follow <a href="https://facebook.com/LWYEAMIN">Learn With Yeamin</a>
 </h3>
 </p>
 
